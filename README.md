@@ -7,3 +7,4 @@ Here are some rules you need to follow:
 2. Please create a new branch whle sending a pr
 3. Feel free to submit solutions in your language of preference
 4. If you have any unique problems that you think in not in the project Euler website(it will be fact checked) then please post it under the discussion panel.
+5. If you want to contribute to an open issue please submit PR
