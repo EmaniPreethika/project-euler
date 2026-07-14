@@ -1,3 +1,7 @@
+'''
+    exlanation on: 
+    https://medium.com/@epreethika.official/project-euler-19-counting-sundays-e0f72ebfd488
+'''
 days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
 def leap(year):
